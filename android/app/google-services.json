@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969674841780",
+    "project_id": "email-firebase-cbd2b",
+    "storage_bucket": "email-firebase-cbd2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969674841780:android:3edf4b18e4afc963f741e1",
+        "android_client_info": {
+          "package_name": "com.example.email_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsGsxzXnP4NVlxTJsnW_CfhugAwkSNZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969674841780:android:962ced8993732810f741e1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_operation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsGsxzXnP4NVlxTJsnW_CfhugAwkSNZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
